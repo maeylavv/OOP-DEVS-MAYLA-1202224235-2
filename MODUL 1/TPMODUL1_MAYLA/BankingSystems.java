@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 class Account {
-    private String name;
+    private String name;    
     private String accountNumber;
     private double balance;
 
